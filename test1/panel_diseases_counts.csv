@@ -1,0 +1,308 @@
+;diseaseName;counts
+0;Neonatal diabetes mellitus;14
+1;Monogenic diabetes;13
+2;Maturity onset diabetes mellitus in young;13
+3;Diabetes Mellitus, Non-Insulin-Dependent;12
+4;Diabetes Mellitus, Insulin-Dependent;7
+5;Diabetes, Autoimmune;6
+6;DIABETES MELLITUS, PERMANENT NEONATAL;6
+7;Diabetes Mellitus, Ketosis-Prone;6
+8;Diabetes Mellitus, Sudden-Onset;6
+9;Brittle diabetes;6
+10;Alloxan Diabetes;5
+11;Diabetes Mellitus, Experimental;5
+12;Streptozotocin Diabetes;5
+13;Hyperglycemia;4
+14;Hyperglycemia, Postprandial;4
+15;Insulin Resistance;3
+16;Malignant neoplasm of prostate;3
+17;Hyperinsulinemic hypoglycemia, familial, 1;3
+18;Congenital Hyperinsulinism;3
+19;Prostatic Neoplasms;3
+20;Compensatory Hyperinsulinemia;3
+21;Presenile dementia;3
+22;Acute Confusional Senile Dementia;3
+23;Familial Alzheimer Disease (FAD);3
+24;Alzheimer Disease, Early Onset;3
+25;Hyperinsulinemic hypoglycemia, familial, 2;3
+26;Liver Cirrhosis, Experimental;3
+27;Diabetes Mellitus, Transient Neonatal, 1;3
+28;Endogenous Hyperinsulinism;3
+29;Insulin Sensitivity;3
+30;Alzheimer Disease, Late Onset;3
+31;Exogenous Hyperinsulinism;3
+32;Alzheimer's Disease;3
+33;Alzheimer's Disease, Focal Onset;3
+34;Hyperinsulinism;3
+35;Rheumatoid Arthritis;2
+36;Epileptic drop attack;2
+37;Renal cysts and diabetes syndrome;2
+38;Renal Cell Carcinoma;2
+39;Reactive hypoglycemia;2
+40;Drug habituation;2
+41;Hypoglycemia;2
+42;Diabetic Nephropathy;2
+43;Non-epileptic convulsion;2
+44;Prescription Drug Abuse;2
+45;Epileptic Seizures;2
+46;Developmental Delay, Epilepsy, and Neonatal Diabetes;2
+47;Diabetes Mellitus;2
+48;Drug abuse;2
+49;Drug Use Disorders;2
+50;Papillary Renal Cell Carcinoma;2
+51;Olfactory seizure;2
+52;Drug Dependence;2
+53;Obesity;2
+54;Parkinson Disease;2
+55;Nonepileptic Seizures;2
+56;Polycystic Ovary Syndrome;2
+57;Liver carcinoma;2
+58;Sarcomatoid Renal Cell Carcinoma;2
+59;Generalized Absence Seizures;2
+60;Substance-Related Disorders;2
+61;Convulsive Seizures;2
+62;Bipolar Disorder;2
+63;Tonic - clonic seizures;2
+64;Atonic Absence Seizures;2
+65;Tonic Seizures;2
+66;Jacksonian Seizure;2
+67;Generalized seizures;2
+68;Substance Use Disorders;2
+69;Gustatory seizure;2
+70;Lewy Body Disease;2
+71;Myoclonic Seizures;2
+72;Vertiginous seizure;2
+73;Visual seizure;2
+74;Absence Seizures;2
+75;melanoma;2
+76;Substance abuse problem;2
+77;Seizures, Auditory;2
+78;Chromophobe Renal Cell Carcinoma;2
+79;Complex partial seizures;2
+80;Convulsions;2
+81;Conventional (Clear Cell) Renal Cell Carcinoma;2
+82;Sclerocystic Ovaries;2
+83;Seizures;2
+84;Organic Mental Disorders, Substance-Induced;2
+85;Seizures, Focal;2
+86;Seizures, Sensory;2
+87;Substance Dependence;2
+88;Seizures, Somatosensory;2
+89;Fasting Hypoglycemia;2
+90;Single Seizure;2
+91;Impaired glucose tolerance;2
+92;Collecting Duct Carcinoma of the Kidney;2
+93;Clonic Seizures;2
+94;Micronuclei, Chromosome-Defective;1
+95;Memory Disorder, Spatial;1
+96;Metabolic Syndrome X;1
+97;Metabolic Diseases;1
+98;Memory impairment;1
+99;Micronuclei, Genotoxicant-Induced;1
+100;Memory Disorders;1
+101;Memory Loss;1
+102;Malignant tumor of colon;1
+103;Memory Disorder, Semantic;1
+104;Mechanical Allodynia;1
+105;Lupus Erythematosus, Systemic;1
+106;MATURITY-ONSET DIABETES OF THE YOUNG, TYPE 13;1
+107;MATURITY-ONSET DIABETES OF THE YOUNG, TYPE 3 (disorder);1
+108;MATURITY-ONSET DIABETES OF THE YOUNG, TYPE 6 (disorder);1
+109;MATURITY-ONSET DIABETES OF THE YOUNG, TYPE 7 (disorder);1
+110;MATURITY-ONSET DIABETES OF THE YOUNG, TYPE 8, WITH EXOCRINE DYSFUNCTION;1
+111;MATURITY-ONSET DIABETES OF THE YOUNG, TYPE 9 (disorder);1
+112;MATURITY-ONSET DIABETES OF THE YOUNG, TYPE IV (disorder);1
+113;MONOCARBOXYLATE TRANSPORTER 1 DEFICIENCY;1
+114;MPTP Poisoning;1
+115;MPTP-Induced Degeneration of the Striatum;1
+116;MULTICYSTIC RENAL DYSPLASIA, BILATERAL;1
+117;Malignant neoplasm of breast;1
+118;Malignant neoplasm of pancreas;1
+119;Mammary Carcinoma, Human;1
+120;Mammary Neoplasms;1
+121;Mammary Neoplasms, Human;1
+122;Manic;1
+123;Manic Disorder;1
+124;Martinez-Frias Syndrome;1
+125;Maturity-Onset Diabetes of the Young, Type 1;1
+126;Maturity-onset diabetes of the young, type 10;1
+127;Maturity-onset diabetes of the young, type 11;1
+128;Mitchell-Riley Syndrome;1
+129;22q13.3 Deletion Syndrome;1
+130;Muckle-Wells Syndrome;1
+131;Tethered Cord Syndrome;1
+132;Rabson-Mendenhall Syndrome;1
+133;Renal Insufficiency;1
+134;Rhabdomyolysis;1
+135;Sensorineural Hearing Loss (disorder);1
+136;Spinal Cord Myelodysplasia;1
+137;Steatohepatitis;1
+138;Symmetric Diabetic Proximal Motor Neuropathy;1
+139;Tachyarrhythmia;1
+140;Tachycardia;1
+141;Tactile Allodynia;1
+142;Todd Paralysis;1
+143;Prostate cancer, familial;1
+144;Ulcerative Colitis;1
+145;Unilateral Multicystic Dysplastic Kidney;1
+146;Unipolar Depression;1
+147;Urinary Bladder Diseases;1
+148;Ventricular Dysfunction, Left;1
+149;Ventricular Fibrillation;1
+150;Ventricular Outflow Obstruction;1
+151;Ventricular Outflow Obstruction, Left;1
+152;Ventricular Outflow Obstruction, Right;1
+153;Weight decreased;1
+154;Psychoses, Traumatic;1
+155;Precancerous Conditions;1
+156;Mucocutaneous Lymph Node Syndrome;1
+157;PANCREATIC AGENESIS 1;1
+158;Myocardial Failure;1
+159;Myopathy;1
+160;Neoplasm Invasiveness;1
+161;Neoplastic Cell Transformation;1
+162;Neural Tube Defects;1
+163;Neurenteric Cyst;1
+164;Neurocognitive Disorders;1
+165;Nodular glomerulosclerosis;1
+166;Organic Brain Syndrome, Nonpsychotic;1
+167;Organic Mental Disorders, Psychotic;1
+168;PLCG2-associated antibody deficiency and immune dysregulation;1
+169;Polycystic Kidney - body part;1
+170;Painful Paresthesias;1
+171;Pancreatic Agenesis, Congenital;1
+172;Pancreatic Neoplasm;1
+173;Pancreatitis;1
+174;Pancreatitis, Chronic;1
+175;Lung diseases;1
+176;Panic Disorder;1
+177;Paralysed;1
+178;Paresthesia;1
+179;Paresthesia, Distal;1
+180;Panic Attacks;1
+181;Hypertensive disease;1
+182;Liver diseases;1
+183;DIABETES MELLITUS, TRANSIENT NEONATAL, 2 (disorder);1
+184;Congenital Hypothyroidism;1
+185;Congenital diaphragmatic hernia;1
+186;Congenital hernia of foramen of Bochdalek;1
+187;Congenital hernia of foramen of Morgagni;1
+188;Congestive heart failure;1
+189;Coronary heart disease;1
+190;Craniorachischisis;1
+191;Cryopyrin-Associated Periodic Syndromes;1
+192;Cystic Kidney Diseases;1
+193;Cystic kidney;1
+194;DEND syndrome;1
+195;DIABETES MELLITUS, INSULIN-DEPENDENT, 2;1
+196;DIABETES MELLITUS, INSULIN-DEPENDENT, 20 (disorder);1
+197;DIABETES MELLITUS, TRANSIENT NEONATAL, 3 (disorder);1
+198;Diabetic Polyneuropathies;1
+199;Delirium, Dementia, Amnestic, Cognitive Disorders;1
+200;Depression, Bipolar;1
+201;Dermatitis, Occupational;1
+202;Diabetes Mellitus, Insulin-Resistant, with Acanthosis Nigricans;1
+203;Diabetes Mellitus, Neonatal, with Congenital Hypothyroidism;1
+204;Diabetes mellitus autosomal dominant type II (disorder);1
+205;Diabetic Amyotrophy;1
+206;Diabetic Asymmetric Polyneuropathy;1
+207;Diabetic Autonomic Neuropathy;1
+208;Diabetic Cardiomyopathies;1
+209;Diabetic Ketoacidosis;1
+210;Diabetic Mononeuropathy;1
+211;Diabetic Neuralgia;1
+212;Condition, Preneoplastic;1
+213;Colorectal Neoplasms;1
+214;Colorectal Carcinoma;1
+215;Colonic Neoplasms;1
+216;AUTOINFLAMMATION, ANTIBODY DEFICIENCY, AND IMMUNE DYSREGULATION, PLCG2-ASSOCIATED;1
+217;Abnormal renal morphology;1
+218;Acrania;1
+219;Acute Kidney Insufficiency;1
+220;Acute kidney injury;1
+221;Adult T-Cell Lymphoma/Leukemia;1
+222;Age-Related Memory Disorders;1
+223;Albuminuria;1
+224;Alcoholic Intoxication, Chronic;1
+225;Allodynia;1
+226;Anasarca;1
+227;Angle Closure Glaucoma;1
+228;Anorectal Malformations;1
+229;Asymmetric Diabetic Proximal Motor Neuropathy;1
+230;Autoinflammatory disorder;1
+231;Autosomal dominant hyperinsulinism due to Kir6.2 deficiency;1
+232;Autosomal dominant hyperinsulinism due to SUR1 deficiency;1
+233;Bilateral Multicystic Dysplastic Kidneys;1
+234;Breast Carcinoma;1
+235;CHROMOSOME 17q12 DELETION SYNDROME;1
+236;CORPUS CALLOSUM, AGENESIS OF, WITH FACIAL ANOMALIES AND CEREBELLAR ATAXIA;1
+237;Cardiac Arrest;1
+238;Cardiopulmonary Arrest;1
+239;Cholestasis;1
+240;Chronic Infantile Neurological, Cutaneous, and Articular Syndrome;1
+241;Chronic Lymphocytic Leukemia;1
+242;Clear cell papillary renal cell carcinoma;1
+243;Diabetic Neuropathies;1
+244;Diarrhea 4, Malabsorptive, Congenital;1
+245;Liver Failure, Acute;1
+246;Hypoglycemia, leucine-induced;1
+247;Hyperinsulinemic Hypoglycemia, Familial, 4;1
+248;Hyperinsulinemic Hypoglycemia, Familial, 5;1
+249;Hyperinsulinemic hypoglycemia, familial, 3;1
+250;Hyperinsulinemic hypoglycemia, familial, 6;1
+251;Hyperinsulinemic hypoglycemia, familial, 7;1
+252;Hyperinsulinism due to HNF1A deficiency;1
+253;Hyperinsulinism due to HNF4A deficiency;1
+254;Hyperkalemia;1
+255;Hyperproinsulinemia;1
+256;3-Hydroxyacyl-CoA Dehydrogenase Deficiency;1
+257;Hypertriglyceridemia;1
+258;Hypertrophic Cardiomyopathy;1
+259;Hypertrophic obstructive cardiomyopathy;1
+260;Hypokalemia;1
+261;Diastematomyelia;1
+262;Hypomagnesemia 2, renal;1
+263;Hypotension;1
+264;Industrial Dermatosis;1
+265;Inflammatory Bowel Diseases;1
+266;Iniencephaly;1
+267;Insulin resistance - type A;1
+268;Insulin-dependent diabetes mellitus secretory diarrhea syndrome;1
+269;Kandinsky Syndrome;1
+270;Kidney Failure;1
+271;Kidney Failure, Acute;1
+272;Left-Sided Heart Failure;1
+273;Libman-Sacks Disease;1
+274;Liver Dysfunction;1
+275;Hyperammonemia;1
+276;Hyperalgesia, Thermal;1
+277;Hyperalgesia, Secondary;1
+278;Hyperalgesia, Primary;1
+279;Donohue Syndrome;1
+280;Dysesthesia;1
+281;Dysmorphic facies;1
+282;Edema;1
+283;Epilepsy;1
+284;Erythrocyte Lactate Transporter Defect;1
+285;Exencephaly;1
+286;FAMILIAL COLD AUTOINFLAMMATORY SYNDROME 3;1
+287;FANCONI RENOTUBULAR SYNDROME 4 WITH MATURITY-ONSET DIABETES OF THE YOUNG;1
+288;Familial Cold Autoinflammatory Syndrome 1;1
+289;Familial cold urticaria;1
+290;Fasting hyperglycaemia;1
+291;Fatty Liver;1
+292;Fetal Growth Retardation;1
+293;Fibrosis, Liver;1
+294;Formication;1
+295;Gastric Adenocarcinoma;1
+296;Heart Decompensation;1
+297;Heart Failure, Right-Sided;1
+298;Heart failure;1
+299;Hepatic Adenomas, Familial;1
+300;Hepatitis;1
+301;Hepatocellular Adenoma;1
+302;Hepatomegaly;1
+303;Hydrophthalmos;1
+304;Hydrops Fetalis;1
+305;Hyperalgesia;1
+306;nervous system disorder;1
